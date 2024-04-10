@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on BMIT Reasearch Group</title>
+    <link>https://bmit-networks.github.io/page/</link>
+    <description>Recent content in Pages on BMIT Reasearch Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://bmit-networks.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://bmit-networks.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bmit-networks.github.io/page/about/</guid>
+      <description>Established in 1997 at the University of Sydney, the Biomedical Multimedia Information Technology (BMIT) Research Group is one of the world’s first teams to pioneer core computer science and information technology research to address critical challenges in biomedicine. Since its inception, BMIT has made a number of landmark contributions that continue to have a strong impact on biomedical and healthcare services, and industry. Many of the research outcomes have been translated into real life solutions.</description>
+    </item>
+    <item>
+      <title>BMIT-GRN</title>
+      <link>https://bmit-networks.github.io/page/bmit-grn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bmit-networks.github.io/page/bmit-grn/</guid>
+      <description>The Biomedical &amp;amp; Multimedia Information Technology - Global Research Network (BMIT-GRN) Workshop provides a unique platform for attendees to discuss research, clinical, and industry opportunities and challenges in biomedical &amp;amp; multimedia information technology, and to discuss how people can work together to take these opportunities and to address these challenges with significant scientific innovation and social impact. Your presentations should provide enough comprehensive information to let the others to know what you cutting research and research directions, and possibly to introduce your research group, to facilitate mutual understanding and future collaborations, including, but not limited to, the areas of translation medicine, imaging and health care.</description>
+    </item>
+    <item>
+      <title>Opportunities</title>
+      <link>https://bmit-networks.github.io/page/opportunity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bmit-networks.github.io/page/opportunity/</guid>
+      <description>Study with us - PhD opportunities PLEASE NOTE – this content is provided for indicative purpose only. Please refer to the current university website for a definitive version. We are actively recruiting PhD students. Admission is highly competitive. In general, to be eligible for admission to a postgraduate research degree, you need to have undertaken a significant research project or thesis in your previous university-level studies. Eligible candidates are encouraged to apply early, even before completion of your current qualifying degree.</description>
+    </item>
+    <item>
+      <title>People</title>
+      <link>https://bmit-networks.github.io/page/about-people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bmit-networks.github.io/page/about-people/</guid>
+      <description>Prof. David Feng Director, Biomedical &amp; Multimedia Information Technology (BMIT) Research Group Director (Research), Institute of Biomedical Engineering and Technology (BMET) Academic Director, USYD-SJTU (Shanghai Jiao Tong University) Joint Research Alliance&#xA;(David) Dagan Feng received his ME in Electrical Engineering &amp; Computing Science (EECS) from Shanghai JiaoTong University in 1982, MSc in Biocybernetics and Ph.D in Computer Science from the University of California, Los Angeles (UCLA) in 1985 and 1988 respectively, where he received the Crump Prize for Excellence in Medical Engineering.</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://bmit-networks.github.io/page/about-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bmit-networks.github.io/page/about-research/</guid>
+      <description>Our Research To update</description>
+    </item>
+    <item>
+      <title>SJTU-USYD Joint Research Alliance</title>
+      <link>https://bmit-networks.github.io/page/stju-usyd-alliance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bmit-networks.github.io/page/stju-usyd-alliance/</guid>
+      <description>To consolidate the existing relationship in biomedical engineering and public health research through a joint partnership, on April 2014, SJTU and USYD signed an agreement to invest AUD$2 million together in the project, which will involve joint research, information exchange and academic mobility. This is a large-scale multi-disciplinary international research engagement to provide an open research platform for outstanding researchers from the two institutions to jointly address the major global medical and healthcare challenges and to transform healthcare systems to meet the needs of the future generations through the use of science and technology.</description>
+    </item>
+  </channel>
+</rss>
